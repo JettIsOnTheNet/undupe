@@ -62,7 +62,7 @@ int main(int argc, const char* argv[]) {
 
   // If nothing or improper arguments on command line, output help.
   if (inputDir.empty() || outputDir.empty()) {
-    std::cerr << "Usage: dupe -i <input directory> -o <output directory>" << std::endl;
+    std::cerr << "Usage: undupe -i <input directory> -o <output directory>" << std::endl;
     return 1;
   }
 
