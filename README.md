@@ -1,6 +1,6 @@
 # undupe
 
-I needed a simple command line tool to sort image duplicates. So, I built undupe. It is a simple command line tool built in C++ for XCode 14.3, that will take a directory as input, hash all files to find binary duplicates, then take these duplicates and move them to an output diretory.
+I needed a simple command line tool to sort image duplicates. So, I built undupe. It is a simple command line tool built in C++ for XCode 14.3, that will take a directory as input, hash all files to find binary duplicates, then take these duplicates and move them to an output diretory. I am not the greatest at C++, but I can get the job done. I am sure this can be improved upon. It's a simple tool for my use, and it works, but if you want to pull anything, go ahead. I will check and merge.
 
 Works automatically with the following file extension:
 * .jpg
