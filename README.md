@@ -31,7 +31,7 @@ undupe -i <input_directory> -o <output_directory>
 Example output:
 ```
 $ undupe 
-Usage: dupe -i <input directory> -o <output directory>
+Usage: undupe -i <input directory> -o <output directory>
 
 $ undupe -i input -o output
 2849471691476935143: input/1.jpg input/copy.jpg
